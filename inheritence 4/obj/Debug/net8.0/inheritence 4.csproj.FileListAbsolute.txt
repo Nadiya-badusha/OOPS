@@ -1,0 +1,14 @@
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\bin\Debug\net8.0\inheritence 4.exe
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\bin\Debug\net8.0\inheritence 4.deps.json
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\bin\Debug\net8.0\inheritence 4.runtimeconfig.json
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\bin\Debug\net8.0\inheritence 4.dll
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\bin\Debug\net8.0\inheritence 4.pdb
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\obj\Debug\net8.0\inheritence 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\obj\Debug\net8.0\inheritence 4.AssemblyInfoInputs.cache
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\obj\Debug\net8.0\inheritence 4.AssemblyInfo.cs
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\obj\Debug\net8.0\inheritence 4.csproj.CoreCompileInputs.cache
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\obj\Debug\net8.0\inheritence 4.dll
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\obj\Debug\net8.0\refint\inheritence 4.dll
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\obj\Debug\net8.0\inheritence 4.pdb
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\obj\Debug\net8.0\inheritence 4.genruntimeconfig.cache
+D:\vs 2020\Inheritence and polymorphism\inheritence 4\obj\Debug\net8.0\ref\inheritence 4.dll
